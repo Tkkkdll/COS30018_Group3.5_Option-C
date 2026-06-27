@@ -3,5 +3,5 @@
  pandas
  tensorflow
  scikit-learn
- pandas-datareader
+ mplfinance
  yfinance
